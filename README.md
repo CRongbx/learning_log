@@ -1,11 +1,13 @@
-# learning_log
+# Web_learning_log
 python django 项目实践学习
 
 ## 环境说明
 
+OS：macOS Catalina 10.15
+
 Python 3.7
 
-Django
+Django 2.2.6
 
 Django-bootstrap3
 
@@ -15,6 +17,12 @@ Django-bootstrap3
 #激活虚拟环境
 source ll_env/bin/activate
 #退出该虚拟环境 deavtivate
+
+#安装Django
+pip install Django==2.2.6
+#安装bootstrap3
+pip install Django-bootstrap3
+
 
 #本地运行
 python manage.py runserver

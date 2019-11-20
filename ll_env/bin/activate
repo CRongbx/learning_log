@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/congrong/大四/软件工程实践/web_log/ll_env"
+VIRTUAL_ENV="/Users/congrong/大四/软件工程实践/web_log_git/learning_log/ll_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
